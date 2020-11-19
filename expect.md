@@ -6,3 +6,8 @@
  - expect
  - send [optional tags: -s -h]
  - interact
+
+
+ ### Other commands
+ - sleep
+ - fork
